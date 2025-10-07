@@ -23,6 +23,3 @@ Learning **C programming** and exploring computer science
 - GitHub: [meybook](https://github.com/meybook)
 
 ---
-
-## 📊 GitHub Stats
-![Meybook's GitHub stats](https://github-readme-stats.vercel.app/api?username=meybook&show_icons=true&theme=radical)
